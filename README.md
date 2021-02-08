@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/GJ7yjQs/messenger-clone.png" height="400px" >
+<img src="https://i.ibb.co/GJ7yjQs/messenger-clone.png" height="75%" width="75%" >
 </p>
 
 ## Introduction 🚀
