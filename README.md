@@ -1,3 +1,3 @@
 <p align="center">
-<img src="https://i.ibb.co/GJ7yjQs/messenger-clone.png" >
+<img src="https://i.ibb.co/GJ7yjQs/messenger-clone.png" height="400px" >
 </p>
