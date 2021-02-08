@@ -1,4 +1,4 @@
-<div align ="center"># Messenger Clone </div>
+# Messenger Clone {style=text-align:center}
 
 
 <p align="center">
